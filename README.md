@@ -1,4 +1,4 @@
-# 🧠 TeenDepresso: Hybrid NLP-Based Depression Detection System
+# 🧠 TeenDepresso-Hybrid-NLP-Depression-Detection
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
