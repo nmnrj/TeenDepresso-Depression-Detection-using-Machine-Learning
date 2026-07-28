@@ -154,35 +154,8 @@ Instead of relying only on classification, the system retrieves the **Top-3 sema
 
 # 🖥️ Sample Output
 
-```text
-Prediction : Depression
+<img width="1646" height="856" alt="Screenshot 2026-07-28 074400" src="https://github.com/user-attachments/assets/49946b57-47fb-404c-847c-ccfd3f0863c8" />
 
-Confidence : 99.78%
-
-Risk Level : High
-
-Most Similar Training Examples
-
-1.
-Similarity : 0.91
-I don't want to talk to anyone anymore.
-
-2.
-Similarity : 0.89
-Everything feels meaningless.
-
-3.
-Similarity : 0.88
-I have completely lost hope.
-
-Suggestion:
-Please consider talking to a trusted friend or a mental health professional.
-
-Disclaimer:
-Educational and Research Purposes Only.
-```
-
----
 
 # 📊 Future Improvements
 
